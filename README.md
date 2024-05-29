@@ -1,5 +1,31 @@
 ## I`m a Python Developer
 
+## Languages and tools
+![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
+![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML)
+![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS)
+
+![JavaScript](https://img.shields.io/badge/-Java_Script*-black?style=for-the-badge&logo=JavaScript)
+
+**в процессе изучения, использую некоторые приемы JavaScript, например, постраение графиков, всплывающие окна.*
+
+
+![Django](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=Django)
+![DRF](https://img.shields.io/badge/-REST_API-black?style=for-the-badge&logo=Django)
+![PostgresQL](https://img.shields.io/badge/-PostgresQL-black?style=for-the-badge&logo=PostgresQL)
+![SQLite](https://img.shields.io/badge/-SQLite-black?style=for-the-badge&logo=SQLite)
+![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=Docker)
+![Nginx](https://img.shields.io/badge/-Nginx-black?style=for-the-badge&logo=Nginx)
+![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=Bootstrap)
+
+![Telegram API](https://img.shields.io/badge/-python_telegram_bot-black?style=for-the-badge&logo=telegram)
+![Matplotlib](https://img.shields.io/badge/-matplotlib-black?style=for-the-badge&logo=matplotlib)
+![datetime](https://img.shields.io/badge/-datetime-black?style=for-the-badge&logo=datetime)
+![tkinter](https://img.shields.io/badge/-tkinter-black?style=for-the-badge&logo=tkinter)
+![JSON](https://img.shields.io/badge/-JSON-black?style=for-the-badge&logo=JSON)
+## Follow me
+
 ## About me
 ### EN
 **Why programming is my credo:**
@@ -44,8 +70,3 @@ My brain is constantly in a state of generating ideas - as soon as some urgent t
 **Что больше всего привлекает в программировании:**
 Больше всего меня привлекает работа с бекендом веб сервисов, проектирование логики приложения и баз данных, а также API, мне интересно создавать API и писать программы для взимодествия с внешними источниками данных.
 Мой мозг постоянно находится в состоянии генерации идей - как только появляется какая то насущная задача, например съездить в другой город или страну, а сервиса, который мог бы проложить маршрут или нет или есть, но показывает расписание в пдф, я практически сразу беру блокнот и накидываю код будущего бота или приложения, которое будет читать эту пдфку и записывать данные в БД, чтобы потом можно было получить удобный сервис для планирования маршрута.
-
-## Languages and tools
-
-
-## Follow me
