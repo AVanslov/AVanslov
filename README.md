@@ -85,4 +85,5 @@ My brain is constantly in a state of generating ideas - as soon as some urgent t
 ## Statictics
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avanslov)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avanslov&layout=donut)
