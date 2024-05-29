@@ -21,7 +21,7 @@
 
 
 ![Django](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=Django)
-![DRF](https://img.shields.io/badge/-REST_API-black?style=for-the-badge&logo=Django)
+![DRF](https://img.shields.io/badge/-DRF-black?style=for-the-badge&logo=DRF)
 ![PostgresQL](https://img.shields.io/badge/-PostgresQL-black?style=for-the-badge&logo=PostgresQL)
 ![SQLite](https://img.shields.io/badge/-SQLite-black?style=for-the-badge&logo=SQLite)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=Docker)
