@@ -14,7 +14,10 @@
 ![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS)
 ![JavaScript](https://img.shields.io/badge/-Java_Script*-black?style=for-the-badge&logo=JavaScript)
 
+**in the process of learning, I use some JavaScript techniques, for example, plotting graphs, pop-ups.*
+
 **в процессе изучения, использую некоторые приемы JavaScript, например, постраение графиков, всплывающие окна.*
+
 
 
 ![Django](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=Django)
