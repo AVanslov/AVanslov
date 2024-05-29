@@ -1,4 +1,12 @@
-## I`m a Python Developer
+# Aleksandr Buchelnikov
+## Python Developer
+
+- **[Languages and tools](https://github.com/AVanslov#languages-and-tools)**
+- **[Contact me](https://github.com/AVanslov#contact-me)**
+- **[About me](https://github.com/AVanslov#about-me)**
+    - **[EN](https://github.com/AVanslov#en)**
+    - **[RU](https://github.com/AVanslov#ru)**
+- **[Statistics](https://github.com/AVanslov#statictics)**
 
 ## Languages and tools
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
@@ -29,6 +37,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/aleksandr-buchelnikov/)
 [![Upwork](https://img.shields.io/badge/-Upwork-black?style=for-the-badge&logo=Upwork)](https://www.upwork.com/freelancers/~01f4ee846d7823ab17?mp_source=share)
 [![Fiverr](https://img.shields.io/badge/-Fiverr-black?style=for-the-badge&logo=Fiverr)](https://www.fiverr.com/alex_vanslov)
+[![E-mail](https://img.shields.io/badge/-E_mail-black?style=for-the-badge&logo=Gmail)](mailto:al.buchelnikov@gmail.com)
 
 ## About me
 ### EN
