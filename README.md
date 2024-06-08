@@ -18,8 +18,6 @@
 
 **в процессе изучения, использую некоторые приемы JavaScript, например, постраение графиков, всплывающие окна.*
 
-
-
 ![Django](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=Django)
 ![DRF](https://img.shields.io/badge/-DRF-black?style=for-the-badge&logo=DRF)
 ![PostgresQL](https://img.shields.io/badge/-PostgresQL-black?style=for-the-badge&logo=PostgresQL)
@@ -34,6 +32,16 @@
 ![datetime](https://img.shields.io/badge/-datetime-black?style=for-the-badge&logo=datetime)
 ![tkinter](https://img.shields.io/badge/-tkinter-black?style=for-the-badge&logo=tkinter)
 ![JSON](https://img.shields.io/badge/-JSON-black?style=for-the-badge&logo=JSON)
+
+![aiogram](https://img.shields.io/badge/-aiogram*-black?style=for-the-badge&logo=aiogram)
+![MongoDB](https://img.shields.io/badge/-MongoDB*-black?style=for-the-badge&logo=MongoDB)
+
+**in the process of learning*
+- *I am currently developing a Telegram bot for a parcel sending service with this glass.*
+
+**В процессе изучения*
+- *Cейчас с этим стеком разрабатываю Телеграм бот для сервиса отправки посылок.*
+
 ## Contact me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/aleksandr_buchelnikov)
