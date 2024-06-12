@@ -32,6 +32,8 @@
 ![datetime](https://img.shields.io/badge/-datetime-black?style=for-the-badge&logo=datetime)
 ![tkinter](https://img.shields.io/badge/-tkinter-black?style=for-the-badge&logo=tkinter)
 ![JSON](https://img.shields.io/badge/-JSON-black?style=for-the-badge&logo=JSON)
+![Pytest](https://img.shields.io/badge/-Pytest-black?style=for-the-badge&logo=pytest)
+![Unittest](https://img.shields.io/badge/-Unittest-black?style=for-the-badge&logo=unittest)
 
 ![aiogram](https://img.shields.io/badge/-aiogram*-black?style=for-the-badge&logo=aiogram)
 ![MongoDB](https://img.shields.io/badge/-MongoDB*-black?style=for-the-badge&logo=MongoDB)
