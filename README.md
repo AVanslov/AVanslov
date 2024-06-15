@@ -14,10 +14,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS)
 ![JavaScript](https://img.shields.io/badge/-Java_Script*-black?style=for-the-badge&logo=JavaScript)
 
-**in the process of learning, I use some JavaScript techniques, for example, plotting graphs, pop-ups.*
-
-**в процессе изучения, использую некоторые приемы JavaScript, например, постраение графиков, всплывающие окна.*
-
 ![Django](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=Django)
 ![DRF](https://img.shields.io/badge/-DRF-black?style=for-the-badge&logo=DRF)
 ![PostgresQL](https://img.shields.io/badge/-PostgresQL-black?style=for-the-badge&logo=PostgresQL)
@@ -26,6 +22,8 @@
 ![Nginx](https://img.shields.io/badge/-Nginx-black?style=for-the-badge&logo=Nginx)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=Bootstrap)
+![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman)
+![MongoDB](https://img.shields.io/badge/-MongoDB*-black?style=for-the-badge&logo=MongoDB)
 
 ![Telegram API](https://img.shields.io/badge/-python_telegram_bot-black?style=for-the-badge&logo=telegram)
 ![Matplotlib](https://img.shields.io/badge/-matplotlib-black?style=for-the-badge&logo=matplotlib)
@@ -34,9 +32,7 @@
 ![JSON](https://img.shields.io/badge/-JSON-black?style=for-the-badge&logo=JSON)
 ![Pytest](https://img.shields.io/badge/-Pytest-black?style=for-the-badge&logo=pytest)
 ![Unittest](https://img.shields.io/badge/-Unittest-black?style=for-the-badge&logo=unittest)
-
 ![aiogram](https://img.shields.io/badge/-aiogram*-black?style=for-the-badge&logo=aiogram)
-![MongoDB](https://img.shields.io/badge/-MongoDB*-black?style=for-the-badge&logo=MongoDB)
 
 **in the process of learning*
 - *I am currently developing a Telegram bot for a parcel sending service with this glass.*
