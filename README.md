@@ -47,56 +47,62 @@
 ### EN
 **Why programming is my credo:**
 
-We can say that the attraction to programming, algorithms and logical problems has been absorbed by me since childhood: as a child, I solved logical puzzles that my father, a programmer, compiled for me in the form of an excel program so that I could find parts of some surprise hidden somewhere in the house.
-At university, in my spare time, I studied Arduino programming and assembled a CNC laser machine to make mockups and so did my small business in the dorm.
-While working as an architect, I constantly felt the desire to set up automation of design processes and structure and decompose all the tasks assigned to my team.
-In the summer of 23, I realized that I needed to fulfill my dream and program.
-I chose Python consciously - I studied the statistics of the languages used, talked with familiar programmers and realized that python would provide an excellent base for understanding an unlimited number of other interesting technologies.
+I have always been very fond of algorithms, logic problems and programming.<br>
+At university, I studied Arduino programming and assembled a CNC<br>laser machine to make mockups and so did my small business in the dorm.<br>
 
-**How do I develop my skills:**
-- I come up with projects that solve problems that come into my field of vision and implement them. Do you want a convenient service for budget management? - Created SIMBU. Do I want to send a parcel between countries faster? - created a telegram bot to search for fellow travelers (still in development) and so on. This is how I study a sea of libraries, frameworks, and even languages.
+While working as an architect, I constantly felt the desire to set up<br>automation of design processes and structure and decompose all the tasks assigned to my team.<br>
+At the age of 23, I realized that I needed to fulfill my dream and program.<br>
+
+I chose Python consciously - based on the relative simplicity, prevalence,<br>and advice from familiar programmers about choosing the first language to master.
+
+**How am I developing:**
+
 - I actively read the documentation of various libraries and frameworks, create programs that solve my problems and my friends - so I study new technologies - by searching for answers.
 - I read habr and articles by programmers and IT companies on LinkedIn.
-- I take courses, for example, Yandex Practicum courses.
-- I follow the hackathons and try to participate whenever possible.
+- I take courses, for example, at Yandex Practicum.
+- I participate in hackathons.
+- I solve problems, for example, in Yandex.Context.
 
-**Hobbies:**
+**What I'm looking for:**
 
-I am fond of Arduino programming, yoga, language learning, recently attended German courses, improving English, doing wood carving.
+I am looking for a friendly team with a responsible leader. It is important for me that a culture of mutual respect prevails in the team.
 
-**What attracts you the most in programming:**
+Most of all, I am attracted to working with the backend of web services, designing application logic and databases, and I am also interested in creating APIs and writing programs to interact with external data sources.
 
-Most of all, I am attracted to working with the backend of web services, designing application logic and databases, as well as APIs, I am interested in creating APIs and writing programs to interact with external data sources.
-My brain is constantly in a state of generating ideas - as soon as some urgent task appears, for example, to go to another city or country, and a service that could set a route or not or is there, but shows the schedule in the PDF, I almost immediately take a notebook and throw in the code of a future bot or application that will read this PDF card and record the data in the database so that you can then get a convenient service for route planning.
+I currently live in Serbia, so I am considering a remote job, a job in Serbia, or moving.
 
 ### RU
 **Почему программирование - это моё кредо:**
 
-Можно сказать, что влечение к программированию, алгоритмам и логическим задачам впиталось мною с детства: будучи ребёнком, я решел логические головоломи, которые мой отец - программист - составлял для меня в виде программы в excel, чтобы я мог находить части какого-нибудь сюрприза, спрятанные где то в доме.
-В университете в свободное время я изучил программирование Arduino и собрал лазерный станок ЧПУ, чтобы делать макеты и так сделал свой небольшой бизнес в общежитии.
+Всегда очень увлекался алгоритмами, логическими задачами и программированием. 
+В университете я изучил программирование Arduino и собрал лазерный станок ЧПУ, чтобы делать макеты и так сделал свой небольшой бизнес в общежитии.
+
 Во время работы архитектором я постоянно чувствовал желание настроить автоматизацию процессов проектирования и все структурировать и декомпозировать поставленные моей команде задачи.
-Летом 23 года я понял, что нужно осуществить свою мечту и программировать.
-Я выбрал Python осознанно - изучил статистику применяемых языков, пообщался со знакомыми программистами и понял, что python даст отличную базу для понимания неограниченного множества других интересных технологий.
 
-**Как я развиваю свои навыки:**
+В 23 году я понял, что нужно осуществить свою мечту и программировать.
+Я выбрал Python осознанно - на основе относительной простоты, распространенности и советов знакомых программостов о выборе первого для освоения языка.
 
-- Придумываю проекты, которые решают проблемы, которые попадают в поле моего зрения и реализую их. Хочеться удобный сервис для ведения бюджета? - Создал SIMBU. Хочу отправить посылку между странами побыстрее? - создал телеграм бот для поиска попутчиков (пока в разработке) и тд. Так я изучаю море библиотек, фрейморков и даже языки.
+**Как я развиваюсь:**
+
 - Активно читаю документацию различных библиотек и фреймворков, создаю программы, которые решают мои проблемы и моих знакомых - так изучаю новые технологии - с помощью поиска ответов.
 - Читаю habr и статьи программистов и IT компаний в LinkedIn.
-- Прохожу курсы, например курсы Yandex Practicum.
-- Слежу за хакатонами и стараюсь по возможности участвовать.
+- Прохожу курсы, например, в Yandex Practicum.
+- Учасвтвую в хакатонах.
+- Решаю задачи, например, в Яндекс.Контексте.
 
-**Хобби:**
+**Что ищу:**
 
-увлекаюсь программированием Arduino, йогой, изучением языков, недавно посещал курсы немецкого, совершенствую английский, занимаюсь резьбой по дереву.
+Ищу дружный коллектив с ответственным руководителем. Для меня важно, чтобы в коллективе царила культура взаимоуважения.
 
-**Что больше всего привлекает в программировании:**
+Больше всего меня привлекает работа с бекендом веб сервисов, проектирование логики приложения и баз данных, а также мне интересно создавать API и писать программы для взимодествия с внешними источниками данных.
 
-Больше всего меня привлекает работа с бекендом веб сервисов, проектирование логики приложения и баз данных, а также API, мне интересно создавать API и писать программы для взимодествия с внешними источниками данных.
-Мой мозг постоянно находится в состоянии генерации идей - как только появляется какая то насущная задача, например съездить в другой город или страну, а сервиса, который мог бы проложить маршрут или нет или есть, но показывает расписание в пдф, я практически сразу беру блокнот и накидываю код будущего бота или приложения, которое будет читать эту пдфку и записывать данные в БД, чтобы потом можно было получить удобный сервис для планирования маршрута.
+Сейчас проживаю в Сербии, поэтому рассматриваю удаленную работу, работу в Сербии или переезд.
 
 ## Statictics
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avanslov)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avanslov&layout=donut)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=avanslov">
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avanslov&layout=donut"
+</p>
