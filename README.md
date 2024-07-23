@@ -1,5 +1,7 @@
-# Aleksandr Buchelnikov
+# Aleksandr Buchelnikov - Python Developer
+
 [![Personal-Website](https://img.shields.io/badge/-Personal_website-black?style=for-the-badge&logo=)](https://buchelnikov.ddns.net/)
+
 ## Python Developer
 
 - **[Languages and tools](https://github.com/AVanslov#languages-and-tools)**
@@ -11,20 +13,24 @@
 
 ## Languages and tools
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
-![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML)
-![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS)
 
 ![Django](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=Django)
-![DRF](https://img.shields.io/badge/-DRF-black?style=for-the-badge&logo=DRF)
+![DRF](https://img.shields.io/badge/-Django_REST_FRamework-black?style=for-the-badge&logo=Django)
 ![PostgresQL](https://img.shields.io/badge/-PostgresQL-black?style=for-the-badge&logo=PostgresQL)
 ![SQLite](https://img.shields.io/badge/-SQLite-black?style=for-the-badge&logo=SQLite)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=Docker)
 ![Nginx](https://img.shields.io/badge/-Nginx-black?style=for-the-badge&logo=Nginx)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=Bootstrap)
+![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML)
+![CSS](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=postman)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=MongoDB)
-
+![Asyncio](https://img.shields.io/badge/-Asyncio-black?style=for-the-badge&logo=Asyncio)
+![Scrapy](https://img.shields.io/badge/-Scrapy-black?style=for-the-badge&logo=Scrapy)
+![Numpy](https://img.shields.io/badge/-Numpy-black?style=for-the-badge&logo=Numpy)
+![Swagger](https://img.shields.io/badge/-Swagger-black?style=for-the-badge&logo=Swagger)
+![Redoc](https://img.shields.io/badge/-Redoc-black?style=for-the-badge&logo=Redoc)
 ![Telegram API](https://img.shields.io/badge/-python_telegram_bot-black?style=for-the-badge&logo=telegram)
 ![Matplotlib](https://img.shields.io/badge/-matplotlib-black?style=for-the-badge&logo=matplotlib)
 ![datetime](https://img.shields.io/badge/-datetime-black?style=for-the-badge&logo=datetime)
