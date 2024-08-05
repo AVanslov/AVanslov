@@ -1,6 +1,6 @@
 # Aleksandr Buchelnikov - Python Developer
 
-[![Personal-Website](https://img.shields.io/badge/-Personal_website-black?style=for-the-badge&logo=)](https://buchelnikov.ddns.net/)
+[![Personal-Website](https://img.shields.io/badge/-Personal_website-black?style=for-the-badge)](https://buchelnikov.ddns.net/)
 
 ## Python Developer
 
@@ -51,58 +51,44 @@
 
 ## About me
 ### EN
-**Why programming is my credo:**
 
-I have always been very fond of algorithms, logic problems and programming.<br>
-At university, I studied Arduino programming and assembled a CNC<br>laser machine to make mockups and so did my small business in the dorm.<br>
+**Who am I**
 
-While working as an architect, I constantly felt the desire to set up<br>automation of design processes and structure and decompose all the tasks assigned to my team.<br>
-At the age of 23, I realized that I needed to fulfill my dream and program.<br>
-
-I chose Python consciously - based on the relative simplicity, prevalence,<br>and advice from familiar programmers about choosing the first language to master.
+Highly skilled and detail-oriented Python Developer with over 1 year of experience in designing, developing, and
+maintaining complex web applications. Seeking to leverage my technical skills, creativity, and problem-solving abilities
+in a challenging role as a Python Developer. Committed to producing high-quality, user-friendly, scalable and bug-free
+software solutions.
 
 **How am I developing:**
 
-- I actively read the documentation of various libraries and frameworks, create programs that solve my problems and my friends - so I study new technologies - by searching for answers.
-- I read habr and articles by programmers and IT companies on LinkedIn.
+- I actively read the documentation of various libraries and frameworks, create pet projects.
+- In addition to Python, I study Java, C++, Flask, FAST API and HTTP in Hexlet, Ravesli, Stepik
+- I read articles on habr, I am interested in new technologies in the field, I read blogs of programmers on LinkedIn.
 - I take courses, for example, at Yandex Practicum.
-- I participate in hackathons.
+- I participate in hackathons and contests, for example, CodeRun.
 - I solve problems, for example, in Yandex.Context.
 
-**What I'm looking for:**
+**What kind of job am I looking for:**
 
-I am looking for a friendly team with a responsible leader. It is important for me that a culture of mutual respect prevails in the team.
-
-Most of all, I am attracted to working with the backend of web services, designing application logic and databases, and I am also interested in creating APIs and writing programs to interact with external data sources.
-
-I currently live in Serbia, so I am considering a remote job, a job in Serbia, or moving.
+Now I live in Serbia, so I am considering remote work, work in Serbia, Montenegro, EU countries, Armenia, Georgia.
 
 ### RU
-**Почему программирование - это моё кредо:**
+**Кто я**
 
-Всегда очень увлекался алгоритмами, логическими задачами и программированием. 
-В университете я изучил программирование Arduino и собрал лазерный станок ЧПУ, чтобы делать макеты и так сделал свой небольшой бизнес в общежитии.
+Высококвалифицированный и внимательный к деталям Python разработчик с опытом проектирования, разработки и сопровождения веб-приложений более 1 года. Стремлюсь использовать свои технические навыки, креативность и способность решать проблемы в сложной роли разработчика. Стремлюсь создавать высококачественные, удобные в использовании, масштабируемые и не содержащие ошибок программные решения.
 
-Во время работы архитектором я постоянно чувствовал желание настроить автоматизацию процессов проектирования и все структурировать и декомпозировать поставленные моей команде задачи.
+**Как я развиваюсь**
 
-В 23 году я понял, что нужно осуществить свою мечту и программировать.
-Я выбрал Python осознанно - на основе относительной простоты, распространенности и советов знакомых программостов о выборе первого для освоения языка.
-
-**Как я развиваюсь:**
-
-- Активно читаю документацию различных библиотек и фреймворков, создаю программы, которые решают мои проблемы и моих знакомых - так изучаю новые технологии - с помощью поиска ответов.
-- Читаю habr и статьи программистов и IT компаний в LinkedIn.
+- Активно читаю документацию различных библиотек и фреймворков, создаю пет проекты.
+- Помимо Python изучаю Java, C++, Flask, FAST API и HTTP в Hexlet, Ravesli, Stepik
+- Читаю статьи на habr, интересуюсь новыми технологиями в сфере, читаю блоги программистов на LinkedIn.
 - Прохожу курсы, например, в Yandex Practicum.
-- Учасвтвую в хакатонах.
+- Учасвтвую в хакатонах и конкурсах, например, CodeRun.
 - Решаю задачи, например, в Яндекс.Контексте.
 
-**Что ищу:**
+**Какую работу ищу**
 
-Ищу дружный коллектив с ответственным руководителем. Для меня важно, чтобы в коллективе царила культура взаимоуважения.
-
-Больше всего меня привлекает работа с бекендом веб сервисов, проектирование логики приложения и баз данных, а также мне интересно создавать API и писать программы для взимодествия с внешними источниками данных.
-
-Сейчас проживаю в Сербии, поэтому рассматриваю удаленную работу, работу в Сербии или переезд.
+Сейчас проживаю в Сербии, поэтому рассматриваю удаленную работу, работу в Сербии, Черногории, странах ЕС, Армении, Грузии.
 
 ## Statictics
 
