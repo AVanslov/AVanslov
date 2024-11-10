@@ -26,6 +26,7 @@ software solutions.
 ![PostgresQL](https://img.shields.io/badge/-PostgresQL-black?style=for-the-badge&logo=PostgresQL)
 ![SQLite](https://img.shields.io/badge/-SQLite-black?style=for-the-badge&logo=SQLite)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=MongoDB)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-black?style=for-the-badge&logo=SQLAlchemy)
 
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=Docker)
 ![Nginx](https://img.shields.io/badge/-Nginx-black?style=for-the-badge&logo=Nginx)
@@ -44,6 +45,7 @@ software solutions.
 ![Scrapy](https://img.shields.io/badge/-Scrapy-black?style=for-the-badge&logo=Scrapy)
 ![Playwright](https://img.shields.io/badge/-Playwright-black?style=for-the-badge&logo=Playwright)
 ![Selenium](https://img.shields.io/badge/-Selenium-black?style=for-the-badge&logo=Selenium)
+![BeautifulSoup4](https://img.shields.io/badge/-BeautifulSoup4-black?style=for-the-badge&logo=BeautifulSoup4)
 
 ![Numpy](https://img.shields.io/badge/-Numpy-black?style=for-the-badge&logo=Numpy)
 ![Matplotlib](https://img.shields.io/badge/-matplotlib-black?style=for-the-badge&logo=matplotlib)
@@ -58,6 +60,8 @@ software solutions.
 ![aiogram](https://img.shields.io/badge/-aiogram-black?style=for-the-badge&logo=aiogram)
 ![PyTelegramBot](https://img.shields.io/badge/-PyTelegramBot-black?style=for-the-badge&logo=Telegram)
 ![Telebot](https://img.shields.io/badge/-Telebot-black?style=for-the-badge&logo=Telegram)
+
+![WooCoomerce API](https://img.shields.io/badge/-WooCoomerce_API-black?style=for-the-badge&logo=Wordpress)
 
 ## Contact me
 
