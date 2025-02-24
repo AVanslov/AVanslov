@@ -1,23 +1,25 @@
 # Aleksandr Buchelnikov - Python Developer
 
 <!-- [![Personal-Website](https://img.shields.io/badge/-Personal_website-black?style=for-the-badge)](https://buchelnikov.ddns.net/) -->
+**[About me](https://github.com/AVanslov#about-me)** | **[Languages and tools](https://github.com/AVanslov#languages-and-tools)** | **[Contact me](https://github.com/AVanslov#contact-me)**
 
 ## About me
 
-Highly skilled and detail-oriented Python Developer with over 1 year of experience in designing, developing, and
-maintaining complex web applications. Seeking to leverage my technical skills, creativity, and problem-solving abilities
+Highly skilled and detail-oriented Python Developer with 2 years of experience in designing, developing, and
+maintaining complex web applications, developing AI. Seeking to leverage my technical skills, creativity, and problem-solving abilities
 in a challenging role as a Python Developer. Committed to producing high-quality, user-friendly, scalable and bug-free
 software solutions.
 
-- **[Languages and tools](https://github.com/AVanslov#languages-and-tools)**
-- **[Contact me](https://github.com/AVanslov#contact-me)**
-- **[About me](https://github.com/AVanslov#about-me)**
-    - **[EN](https://github.com/AVanslov#en)**
-    - **[RU](https://github.com/AVanslov#ru)**
-- **[Statistics](https://github.com/AVanslov#statictics)**
-
 ## Languages and tools
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python)
+
+![Redis](https://img.shields.io/badge/-Redis-black?style=for-the-badge&logo=Redis)
+![Celery](https://img.shields.io/badge/-Celery-black?style=for-the-badge&logo=Celery)
+
+![Rasa](https://img.shields.io/badge/-Rasa-black?style=for-the-badge&logo=Rasa)
+![Scikit-learn](https://img.shields.io/badge/-Scikit_learn-black?style=for-the-badge&logo=Scikit-learn)
+![SciPy](https://img.shields.io/badge/-SciPy-black?style=for-the-badge&logo=SciPy)
+![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=for-the-badge&logo=PyTorch)
 
 ![Django](https://img.shields.io/badge/-Django-black?style=for-the-badge&logo=Django)
 ![DRF](https://img.shields.io/badge/-Django_REST_Framework-black?style=for-the-badge&logo=Django)
@@ -61,23 +63,15 @@ software solutions.
 ![PyTelegramBot](https://img.shields.io/badge/-PyTelegramBot-black?style=for-the-badge&logo=Telegram)
 ![Telebot](https://img.shields.io/badge/-Telebot-black?style=for-the-badge&logo=Telegram)
 
-![WooCoomerce API](https://img.shields.io/badge/-WooCoomerce_API-black?style=for-the-badge&logo=Wordpress)
+![WooCoomerce API](https://img.shields.io/badge/-WooCoomerce_API-black?style=for-the-badge&logo=Woocommerce)
+![Wordpres API](https://img.shields.io/badge/-Wordpres_API-black?style=for-the-badge&logo=Wordpress)
 
 ## Contact me
+
+To place a development order, please contact me in a convenient way:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram)](https://t.me/aleksandr_buchelnikov)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/aleksandr-buchelnikov/)
 [![Upwork](https://img.shields.io/badge/-Upwork-black?style=for-the-badge&logo=Upwork)](https://www.upwork.com/freelancers/~01f4ee846d7823ab17?mp_source=share)
 [![Fiverr](https://img.shields.io/badge/-Fiverr-black?style=for-the-badge&logo=Fiverr)](https://www.fiverr.com/alex_vanslov)
 [![E-mail](https://img.shields.io/badge/-E_mail-black?style=for-the-badge&logo=Gmail)](mailto:al.buchelnikov@gmail.com)
-
-
-
-## Statictics
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=avanslov">
-</p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avanslov&layout=donut"
-</p>
