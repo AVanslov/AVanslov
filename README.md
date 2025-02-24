@@ -1,4 +1,4 @@
-# Aleksandr Buchelnikov - Python Developer
+# Alexander Buchelnikov - Python Developer
 
 <!-- [![Personal-Website](https://img.shields.io/badge/-Personal_website-black?style=for-the-badge)](https://buchelnikov.ddns.net/) -->
 **[About me](https://github.com/AVanslov#about-me)** | **[Languages and tools](https://github.com/AVanslov#languages-and-tools)** | **[Contact me](https://github.com/AVanslov#contact-me)**
